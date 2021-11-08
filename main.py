@@ -2,7 +2,7 @@ import src.processes as prc
 from math import sqrt
 import pandas as pd
 import os
-import openpyxl
+#import openpyxl
 from datetime import datetime
 
 
