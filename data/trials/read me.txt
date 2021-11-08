@@ -1,0 +1,21 @@
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L1TFKE
+
+Cassava Breeding Trials - Edaphoclimatic Zone 7: Semi-Arid
+
+
+Cassava germplasm development at CIAT is centered on the development of improved gene pools for specific edapho-climatic zones 
+with importance for cassava production. The most relevant ecosystems are the semi-and and sub-humid tropics, for which the 
+majority of efforts are devoted. The main selection activity is conducted in sites selected to represent the conditions of 
+the target ecosystem. For each zone, a recurrent selection program with a progressive set of stages is followed. As the stages 
+progress more emphasis is given to traits of lower heritability, because more planting material for each genotype is available 
+and the evaluation can be conducted in bigger plots with replications. Certain selection criteria are of general Importance 
+across ecosystems (i.e. yield potential, dry matter content), while others are specific for each ecosystem 
+(i e. specific pests and/or diseases).
+
+This dataset provides CIAT cassava breeding trial data for activities conducted in the Semi-arid zone
+
+
+4.02.All-Type-Trials_Data
+Longitude:  1129N
+Latitude:  7241W
+altitude: 31

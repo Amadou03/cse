@@ -1,0 +1,6 @@
+https://www.longpaddock.qld.gov.au/silo/point-data/#responseTab2
+
+https://www.data.qld.gov.au/dataset/silo-climate-database/resource/d622b929-c18e-4247-8f61-09fdaafe0421
+
+
+https://www.data.qld.gov.au/dataset?res_format=CSV&q=climate
