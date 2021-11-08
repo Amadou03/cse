@@ -81,8 +81,12 @@ while heat_sum <= 16.7:
 
     #end while
 
+print("This is the number of week required for establishment")
 print(week)
+
+print("This is the dataset for 52 weeks.")
 print(data_set)
+
 lai=0.5
 stem=7
 petiole=5
@@ -93,6 +97,8 @@ total_dry_matter=69
 SI=0
 
 #   MAIN LOOP
+
+print("Now we will be printing the Potential crop growth rate followed by Actual crop growth rate (the actual crop growth rate is multiplied by the stress factor)")
 
 while week<=52:
     #Defining Variable Values
